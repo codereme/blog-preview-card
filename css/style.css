@@ -63,6 +63,7 @@
 .content {
   display: flex;
   flex-direction: column;
+  gap: var(--spacing-150);
 
   font-weight: var(--fw-extra-bold);
   line-height: 1.5;
@@ -84,7 +85,6 @@
 .category {
   align-self: flex-start;
   padding: var(--spacing-50) var(--spacing-150);
-  margin-block-end: var(--spacing-100);
 
   font-size: var(--fs-sm);
   border-radius: var(--border-radius-sm);
