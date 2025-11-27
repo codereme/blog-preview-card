@@ -20,4 +20,9 @@
 
 ## Base Apparel Coming Soon Page
 
+<div>
+<a href="https://codereme.github.io/frontend-mentor-js-solutions/base-apparel-coming-soon-page/index.html">Demo</a> |
+<a href="https://github.com/codereme/frontend-mentor-js-solutions/tree/main/base-apparel-coming-soon-page">Code</a>
+</div>
+
 ![Preview](./base-apparel-coming-soon-page/design/preview.jpg)
