@@ -11,3 +11,22 @@ Users should be able to:
 - Receive an error message when the `form` is submitted if:
   - The `input` field is empty
   - The email address is not formatted correctly
+
+## Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- JavaScript
+
+## Links
+
+- Solution URL: [https://www.frontendmentor.io/solutions/ping-coming-soon-page-with-email-validation-pBnr8CL2qu](https://www.frontendmentor.io/solutions/)
+
+- Live Site URL: [https://codereme.github.io/base-apparel-coming-soon-page/index.html](https://codereme.github.io/base-apparel-coming-soon-page/index.html)
+
+## Author
+
+- Frontend Mentor - [@codereme](https://www.frontendmentor.io/profile/codereme)
+- Github - [@codereme](https://github.com/codereme)
