@@ -34,13 +34,14 @@
     inline-size: 50%;
 
     position: absolute;
-    inset-block-start: -7rem; /* to compensate container padding top  */
+    inset-block-start: -35%; /* to compensate container padding top  */
     inset-inline-end: 0;
+    transform: translateY(0%);
     z-index: 10;
   }
   .container {
     inline-size: 50%;
-    padding-block-start: var(--spacing-md);
+    padding: var(--spacing-xl);
   }
   .col {
     align-items: flex-start;
