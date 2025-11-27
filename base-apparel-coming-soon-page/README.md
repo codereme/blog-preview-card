@@ -22,9 +22,9 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/ping-coming-soon-page-with-email-validation-pBnr8CL2qu](https://www.frontendmentor.io/solutions/)
+- Solution URL: [https://www.frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/)
 
-- Live Site URL: [https://codereme.github.io/base-apparel-coming-soon-page/index.html](https://codereme.github.io/base-apparel-coming-soon-page/index.html)
+- Live Site URL: [https://codereme.github.io/frontend-mentor-js-solutions/base-apparel-coming-soon-page/index.html](https://codereme.github.io/frontend-mentor-js-solutions/base-apparel-coming-soon-page/index.html)
 
 ## Author
 
